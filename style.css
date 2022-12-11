@@ -1,0 +1,132 @@
+body{
+    color: #fff;
+    background-color: #000;
+    position: relative;
+}
+/* nav-bar */
+.navbar-brand{
+    margin: 5px 24px;
+    padding: 8px;
+    
+}
+.navbar{
+    color: #fff;
+    background-color: #000;
+}
+
+/* nav-bar */
+.colored-section{
+    font-family: 'Zen Dots', cursive;
+    /* font-size: 1rem; */
+    padding: 40px
+
+}
+
+/* profile */
+#profile{
+    font-family: 'Orbitron', sans-serif;
+    text-align: center;
+}
+.my_img{
+    text-align: center;
+    padding-left: auto;
+}
+.profile-txt{
+    text-align: center;
+    padding-top:9rem;
+    padding-bottom:7rem;
+    
+}
+/* about me */
+.card{
+    font-family: 'Zen Dots', cursive;
+    text-align: center;
+    margin-top:4rem;
+    margin: 2rem;
+    background-color: #000;
+    color: #fff;
+}
+.card-header{
+    text-align: center;
+    margin-top:10% ;
+    padding: 3% 7% 2%;
+}
+.card-body{
+    font-family: 'Zen Dots', cursive;
+    font-size: 1.5rem;
+    margin: 0 auto 0 auto;
+    text-align: center;
+    line-height: 2;
+    width:75%;
+
+}
+@media (max-width:900px) {
+    .card-body{
+
+        font-size: .9rem;
+        margin: 0 auto 0 auto;
+        text-align: center;
+        line-height: 2;
+        width:75%;
+    }  
+}
+.card-footer{
+     text-align: center;
+     margin-top: 5%;
+     margin-bottom: 10%;
+    }
+    .talk{   
+        width: 15%;
+}
+/* MY SKILLS */
+.container-fluid{
+    text-align: center;
+}
+
+.testimonial-text{
+    font-family: 'Indie Flower', cursive;
+    clear: left right;
+    text-align: center;
+    line-height: 1.5;
+}
+.testimonial-image{
+    float: left;
+    /* text-align: center; */
+    margin: 20px;
+}
+
+@media (max-width:900px) {
+    .testimonial-text{
+        text-align: center;
+        font-size: .9rem;
+        line-height: 2;
+    } 
+
+}
+#testimonials{
+    text-align: center;
+    background-color: #000;
+    color: #fff;
+    margin:3% 3% 5% 3% ;
+}
+.carousel-inner{
+    text-align: center;
+    padding: 5%;
+    margin: 25px;
+}
+.skills{
+    font-family: 'Zen Dots', cursive;
+    font-size: 2.5rem;
+    text-align: center;
+    margin-bottom:10% ;
+}
+#fotter{
+    text-align: center;
+    margin: 50px;
+    font-family: 'Zen Dots', cursive;
+    text-align: center;
+}
+.carousel{
+    margin: 5px;
+}
+
